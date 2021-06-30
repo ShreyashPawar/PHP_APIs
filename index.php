@@ -1,3 +1,3 @@
 <?php
-    echo "Samples for APIs are hosted successfully on BYETHOST";
+    echo "Samples for APIs are hosted successfully on INFINITY-FREE";
 ?>
